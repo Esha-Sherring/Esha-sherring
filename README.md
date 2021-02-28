@@ -52,6 +52,7 @@ Being a tech enthusiast I love to exlpore and thereby my intrest towards open so
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esha-sherring&show_icons=true&locale=en&layout=compact" alt="esha-sherring" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esha-sherring&show_icons=true&locale=en" alt="esha-sherring" /></p>
 
 
