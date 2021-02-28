@@ -4,7 +4,7 @@
 **Esha-Sherring/Esha-sherring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a sophomore at TIET , currently pursuing my B.Tech in Computer Science . I am member of Developer Student Clubs TIET . I am a Node js  backend developer , UI/UX designer , graphic designer and a hobby artist.
+I am a sophomore at TIET , currently pursuing my B.Tech in Computer Science . I a am member of Developer Student Clubs TIET . I am a Node js  backend developer , UI/UX designer , graphic designer and a hobby artist.
 Being a tech enthusiast I love to exlpore and thereby my intrest towards open source.Apart from this I am an avid artist and designer.
 
 
