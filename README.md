@@ -65,11 +65,11 @@ Being a tech enthusiast I love to exlpore and thereby my intrest towards open so
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 
-<
 
 <a href="https://www.facebook.com/esha_sherring" target="blank"><img align="center" src="facebook.svg" alt="esha_sherring" height="30" width="40" /></a>
 <a href="https://www.github.com/Esha-Sherring" target="blank"><img align="center" src="github.svg" alt="esha_sherring" height="30" width="40" /></a>
-</p>
-
 <a href="https://www.linkedin.com/in/esha-sherring-1a32181b4/" target="blank"><img align="center" src="linkedin.svg" alt="esha sherring" height="30" width="40" /></a>
 <a href="https://instagram.com/sherring.esha" target="blank"><img align="center" src="instagram.svg" alt="sherring.esha" height="30" width="40" /></a>
+
+</p>
+
