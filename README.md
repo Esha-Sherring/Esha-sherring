@@ -35,7 +35,7 @@ Being a tech enthusiast I love to exlpore and thereby my intrest towards open so
 
 - 🔭 I’m currently working on Open source Projects <img src="0_K2WLMTExLyida7OR.gif" alt="alt text" width="400 rem" height="340 rem" align="right">
 - 🌱 I’m currently learning React js and machine learning
-- 👯 I’m looking to collaborate on devlopment projects
+- 👯 I’m looking to collaborate on backend devlopment projects 
 - 🤔 I’m looking for help with competitve programming
 - 📫 How to reach me: esherring2016@gmail.com
 - 😄 Pronouns: She/Her<br>
