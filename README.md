@@ -8,6 +8,14 @@ I am a sophomore at TIET , currently pursuing my B.Tech in Computer Science . I 
 Being a tech enthusiast I love to exlpore and thereby my intrest towards open source.Apart from this I am an avid artist and designer.
 
 
+Deployed Projects :
+* https://probe-discord-bot.herokuapp.com/ Probe a discord bot to check profanity
+* https://covigo-21.herokuapp.com/ - A mobile application to help home isolated covid patients
+* https://basic-url-shortner-esha.herokuapp.com/ - A url shortner
+* https://serene-falls-43353.herokuapp.com/ - Chatroom for real time communication
+* https://weather-esha.herokuapp.com/ - Weather Application
+
+
 
 
 
