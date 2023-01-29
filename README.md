@@ -3,42 +3,7 @@
 <!--
 **Esha-Sherring/Esha-sherring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-I am a sophomore at TIET , currently pursuing my B.Tech in Computer Science . I a am member of Developer Student Clubs TIET . I am a Node js  backend developer , UI/UX designer , graphic designer and a hobby artist.
-Being a tech enthusiast I love to exlpore and thereby my intrest towards open source.Apart from this I am an avid artist and designer.
-
-
-Deployed Projects :
-* https://probe-discord-bot.herokuapp.com/ Probe a discord bot to check profanity
-* https://covigo-21.herokuapp.com/ - A mobile application to help home isolated covid patients
-* https://basic-url-shortner-esha.herokuapp.com/ - A url shortner
-* https://serene-falls-43353.herokuapp.com/ - Chatroom for real time communication
-* https://weather-esha.herokuapp.com/ - Weather Application
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I'm a final year student , pursuing my bachelors in technology in computer science .I am currently an intern software engineer at Siemens EDA. I have proficiency in data structures, algorithms, and Python, as well as experience with backend programming using Node JS. Along with a broad range of skills, I also have high moral standards and a willingness to go above and beyond . I worked as an intern software developer at Optum in the summer of 2022. For the best outcomes, I consciously consider keeping a growth-oriented mentality. I am always delighted to collaborate and work with people who share my core beliefs.
 
 
 - 🔭 I’m currently working on Open source Projects <img src="0_K2WLMTExLyida7OR.gif" alt="alt text" width="400 rem" height="340 rem" align="right">
